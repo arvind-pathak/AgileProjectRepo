@@ -1,1 +1,2 @@
 This is FileB.
+Change will be pushed to remote repository now.
